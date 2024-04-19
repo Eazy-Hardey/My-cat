@@ -2,18 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
-
+ To Create a program called my_cat which does the same thing as the system's cat command used in the command-line.
 ## Description
-TODO - How have you solved the problem?
+I have to consult google and other websits to do this exercise it was a very though one on my side 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
-
+There was no installation required for this particular exercise as it is a simple code that does not required installation
 ## Usage
-TODO - How does it work?
+The program would read the content of each files which are received as an argument to your software
 ```
-./my_project argument1 argument2
+Unlike the real Cat command, you don't have to handle any options.
 ```
 
 ### The Core Team
